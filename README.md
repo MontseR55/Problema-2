@@ -2,10 +2,8 @@
 
 # Instrucciones de Ejecución
 
-Este proyecto requiere Python y ciertas librerías externas para funcionar.
-
-## Requisitos Previos
-Es necesario tener instaladas las librerías especificadas en el archivo 'requirements.txt'. 
+Este proyecto requiere Python y ciertas librerías externas para funcionar. 
+Primero es necesario clonar el repositorio y luego instalar las librerías especificadas en el archivo 'requirements.txt'.
 
 ## Instalación
 Antes de correr el código por primera vez, abre una terminal (CMD o PowerShell) en esta carpeta y ejecuta el siguiente comando:
